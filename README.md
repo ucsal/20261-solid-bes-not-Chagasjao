@@ -56,5 +56,3 @@ javac -d out src/main/java/br/com/ucsal/olimpiadas/*.java
 java -cp out br.com.ucsal.olimpiadas.App
 ```
 
-## O motivo de enviar agora
-    Eu trabalho no hospital 2 de julho e infelizmente eu alguns profissionais faltaram na quarta feira a noite e por este motivo eu tive que tirar 48h de plantão, saí hoje de manhã e como eu tinha feito a atividade errada, tive que refazer quase toda, acho inclusive que ainda não fiz da maneira certa. Porém de qualquer modo na quinta feira eu gostaria de tirar duvidas com o senhor, se for possível.
